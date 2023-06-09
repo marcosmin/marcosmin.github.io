@@ -84,3 +84,9 @@ color: green !important;
   text-align: center;
   color: white;
 }
+
+/* Tickets */
+
+.usuarioCard {
+  margin-top: 70px;
+}
